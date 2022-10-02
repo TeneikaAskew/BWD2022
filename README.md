@@ -31,7 +31,7 @@ Black Women Data 2022 - Power BI Workshop
 
 
 
-**[Google Jamboard](https://jamboard.google.com/d/1ooEhhoE0ltCEsq_k6_e082Krl0DX5Ty2rHS6M8hi_fY/edit?usp=sharing)
+**[Google Jamboard](https://jamboard.google.com/d/1ooEhhoE0ltCEsq_k6_e082Krl0DX5Ty2rHS6M8hi_fY/edit?usp=sharing)**
 
 
 **Data Dictionary:**
