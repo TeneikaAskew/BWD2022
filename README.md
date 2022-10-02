@@ -3,11 +3,11 @@
 Black Women Data 2022 - Power BI Workshop
  
 
-**Case:** You are a consultant working with a human capital division that provides people analytics services to Fortune 500 organizations. The organization has asked you to build a dashboard around their team and organizational performance and employee sentiment. This case is inspired by this[ Kaggle challenge](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set).
+ <img src="https://github.com/TeneikaAskew/BWD2022/blob/main/Visuals/DashboardScreenshot.jpg" alt="Teneika HR Dashboard" style="height: 300px; width:300px" align="left"/>**Case:** You are a consultant working with a human capital division that provides people analytics services to Fortune 500 organizations. The organization has asked you to build a dashboard around their team and organizational performance and employee sentiment. This case is inspired by this[ Kaggle challenge](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set).
 
 ** **
 
- <img src="https://github.com/TeneikaAskew/BWD2022/blob/main/Visuals/DashboardScreenshot.jpg" alt="Teneika HR Dashboard" style="height: 300px; width:300px" align="left"/>**Data:**[ Introduction to the HR Dataset - Version 14](https://rpubs.com/rhuebner/hrd_cb_v14)  - Last Updated April, 2021. This HR Dataset is a synthetic data set created specifically to use for HR analytics cases and is updated every year or so, by the owners. Updates include additional columns, and to make slight changes to the underlying data.
+**Data:**[ Introduction to the HR Dataset - Version 14](https://rpubs.com/rhuebner/hrd_cb_v14)  - Last Updated April, 2021. This HR Dataset is a synthetic data set created specifically to use for HR analytics cases and is updated every year or so, by the owners. Updates include additional columns, and to make slight changes to the underlying data.
 
 ** **
 
