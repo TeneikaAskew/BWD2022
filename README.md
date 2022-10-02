@@ -1,9 +1,6 @@
-# BWD2022
+# Black Women in Data 2022
 
-Black Women Data 2022
-
-Power BI Workshop
-
+Black Women Data 2022 - Power BI Workshop
  
 
 **Case:** You are a consultant working with a human capital division that provides people analytics services to Fortune 500 organizations. The organization has asked you to build a dashboard around their team and organizational performance and employee sentiment. This case is inspired by this[ Kaggle challenge](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set).
