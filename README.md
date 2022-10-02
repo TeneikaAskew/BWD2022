@@ -11,7 +11,7 @@ Black Women Data 2022 - Power BI Workshop
 
 ** **
 
-**Inspirational Questions:** Here are some open-ended questions that you can explore and try to address through creating visualizations, or R or Python analyses.
+<br><br>**Inspirational Questions:** Here are some open-ended questions that you can explore and try to address through creating visualizations, or R or Python analyses.
 
 
 
