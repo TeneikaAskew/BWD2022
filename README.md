@@ -28,7 +28,8 @@ Black Women Data 2022 - Power BI Workshop
 *  Is there a relationship between age and performance
 *  Does working on special projects affects performance
 
- 
+ <img src="https://github.com/TeneikaAskew/bwd2020/raw/main/visuals/dashboardscreenshot.png" alt="Teneika HR Dashboard" style="height: 200px; width:200px" align="left"/>
+
 
 **Data Dictionary:**
 
