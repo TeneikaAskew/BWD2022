@@ -34,8 +34,6 @@ Black Women Data 2022 - Power BI Workshop
 
 ** **
 
-** **
-
 
 <table>
   <tr>
