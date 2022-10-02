@@ -7,7 +7,7 @@ Black Women Data 2022 - Power BI Workshop
 
 ** **
 
-**Data:**[ Introduction to the HR Dataset - Version 14](https://rpubs.com/rhuebner/hrd_cb_v14)  - Last Updated April, 2021. This HR Dataset is a synthetic data set created specifically to use for HR analytics cases and is updated every year or so, by the owners. Updates include additional columns, and to make slight changes to the underlying data.
+ <img src="https://github.com/TeneikaAskew/BWD2022/blob/main/Visuals/DashboardScreenshot.jpg" alt="Teneika HR Dashboard" style="height: 300px; width:300px" align="left"/>**Data:**[ Introduction to the HR Dataset - Version 14](https://rpubs.com/rhuebner/hrd_cb_v14)  - Last Updated April, 2021. This HR Dataset is a synthetic data set created specifically to use for HR analytics cases and is updated every year or so, by the owners. Updates include additional columns, and to make slight changes to the underlying data.
 
 ** **
 
@@ -28,7 +28,6 @@ Black Women Data 2022 - Power BI Workshop
 *  Is there a relationship between age and performance
 *  Does working on special projects affects performance
 
- <img src="https://github.com/TeneikaAskew/BWD2022/blob/main/Visuals/DashboardScreenshot.jpg" alt="Teneika HR Dashboard" style="height: 200px; width:200px" align="left"/>
 
 
 **Data Dictionary:**
