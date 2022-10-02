@@ -1,0 +1,8 @@
+{ 
+"name": "Simplifica", 
+"dataColors": ["#062F4F", "#7CBB00", "#0375B4", "#B82601", "#FFBB00", "#008F95","#999895", "#945D60"],
+"background":"#FFFFFF",
+"foreground": "#062F4F",
+"tableAccent": "#000000"
+} 
+
