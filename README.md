@@ -1,6 +1,6 @@
 # Black Women in Data 2022
 
-Power BI Workshop - I did a 4 hour dashboard challenge and I thought this was a great dataset to work with so I turned it into a workshop!<br><br>
+Power BI Workshop - I did a personal 4 hour dashboard challenge. I thought this was a great dataset to work with so I turned it into a workshop!<br><br>
 
 <img src="https://github.com/TeneikaAskew/BWD2022/blob/main/Visuals/DashboardScreenshot.jpg" alt="Teneika HR Dashboard" style="height: 300px; width:300px" align="left"/>**Case:** You are a consultant working with a human capital division that provides people analytics services to Fortune 500 organizations. The organization has asked you to build a dashboard around their team and organizational performance and employee sentiment. This case is inspired by this[ Kaggle challenge](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set).
 
